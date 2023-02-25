@@ -6,5 +6,5 @@
 * First clone the repo by-
 ```git clone https://github.com/S-hre29ya07/Texla-Culture-Backend.git```
 * Run the project-
-```mvn spring-boot:run (in the spring-ws-server)```
+```mvn spring-boot:run```
 
